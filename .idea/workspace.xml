@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="814aa680-aa37-4623-9848-39ff3aaee8fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/08_GUI_Student$ClientMain.ic" NAME="ClientMain Coverage Results" MODIFIED="1556572444773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>a_ServerGame.Client.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gXXTpATmQvZ75nyc3p1DnfCsEb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556726423073" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.26757812" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.ClientMain">
+    <configuration name="ClientMain" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a_ServerGame.Client.ClientMain" />
+      <module name="08_GUI_Student" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a_ServerGame.Client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a_ServerGame.Server.Server" />
+      <module name="08_GUI_Student" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a_ServerGame.Server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientMain" />
+      <item itemvalue="Application.Server" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="814aa680-aa37-4623-9848-39ff3aaee8fc" name="Default Changelist" comment="" />
+      <created>1556238022670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556238022670</updated>
+      <workItem from="1556238024316" duration="29000" />
+      <workItem from="1556271648769" duration="16520000" />
+      <workItem from="1556516871634" duration="19933000" />
+      <workItem from="1556564701720" duration="8927000" />
+      <workItem from="1556611814084" duration="20520000" />
+      <workItem from="1556646040150" duration="26094000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="92023000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1598261953854">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1598261953854" />
+    <state x="484" y="119" key="FileChooserDialogImpl" timestamp="1598263939777">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598263939777" />
+    <state width="1323" height="252" key="GridCell.Tab.0.bottom" timestamp="1598265745617">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="252" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598265745617" />
+    <state width="1323" height="252" key="GridCell.Tab.0.center" timestamp="1598265745616">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="252" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598265745616" />
+    <state width="1323" height="252" key="GridCell.Tab.0.left" timestamp="1598265745616">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="252" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598265745616" />
+    <state width="1323" height="252" key="GridCell.Tab.0.right" timestamp="1598265745616">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="252" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598265745616" />
+    <state x="225" y="0" key="SettingsEditor" timestamp="1598264028708">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="225" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598264028708" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1598261935193">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1598261935193" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1598263641596">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1598263641596" />
+  </component>
+</project>
